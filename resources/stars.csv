@@ -1,0 +1,26 @@
+starId,name,constellation,apparentMagnitude,distanceInLightYears,spectralType,discoveryYear,mass
+S001,Sirius,"Canis Major",-1.46,8.6,A1V,ancient,2.02
+S002,Canopus,Carina,-0.74,310,A9II,ancient,8.0
+S003,Arcturus,Bootes,-0.05,36.7,K1.5III,ancient,1.08
+S004,Alpha Centauri A,Centaurus,-0.01,4.37,G2V,ancient,1.1
+S005,Vega,Lyra,0.03,25.0,A0V,ancient,2.14
+S006,Capella,Auriga,0.08,42.9,G8III,ancient,2.57
+S007,Rigel,Orion,0.13,860,B8Ia,ancient,23.0
+S008,Procyon,"Canis Minor",0.34,11.46,F5IV,ancient,1.5
+S009,Betelgeuse,Orion,0.50,548,M1-2Ia,ancient,16.5
+S010,Altair,Aquila,0.77,16.73,A7V,ancient,1.79
+S011,Aldebaran,Taurus,0.85,65.3,K5III,ancient,1.16
+S012,Spica,Virgo,0.98,250,B1III,ancient,11.43
+S013,Antares,Scorpius,1.09,550,M1.5Iab,ancient,12.4
+S014,Pollux,Gemini,1.14,33.78,K0III,ancient,1.91
+S015,Fomalhaut,"Piscis Austrinus",1.16,25.13,A3V,ancient,1.92
+S016,Deneb,Cygnus,1.25,2615,A2Ia,ancient,19.0
+S017,Mimosa,Crux,1.30,280,B0.5IV,ancient,16.0
+S018,Regulus,Leo,1.35,79.3,B8IVn,ancient,3.8
+S019,Adhara,"Canis Major",1.50,430,B2II,ancient,12.5
+S020,Castor,Gemini,1.58,51.5,A1V,ancient,2.76
+S021,Bellatrix,Orion,1.64,240,B2III,ancient,8.6
+S022,Alnilam,Orion,1.69,2000,B0Ia,ancient,40.0
+S023,Alnitak,Orion,1.77,820,O9Ib,ancient,33.0
+S024,Polaris,"Ursa Minor",1.98,433,F7Ib,ancient,5.4
+S025,Hadar,Centaurus,0.61,390,B1III,ancient,10.7
