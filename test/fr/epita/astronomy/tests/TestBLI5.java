@@ -2,7 +2,7 @@ package fr.epita.astronomy.tests;
 
 import fr.epita.astronomy.datamodel.Telescope;
 import fr.epita.astronomy.services.TelescopeService;
-import fr.epita.astronomy.utils.TelescopeCSVReader;
+import fr.epita.astronomy.services.TelescopeCSVReader;
 
 import java.util.List;
 

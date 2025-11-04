@@ -2,7 +2,7 @@ package fr.epita.astronomy.tests;
 
 import fr.epita.astronomy.datamodel.Star;
 import fr.epita.astronomy.services.StarService;
-import fr.epita.astronomy.utils.StarCSVReader;
+import fr.epita.astronomy.services.StarCSVReader;
 
 import java.util.List;
 import java.util.Map;

@@ -1,6 +1,6 @@
 package fr.epita.astronomy.tests;
 
-import fr.epita.astronomy.dao.TelescopeDAO;
+import fr.epita.astronomy.services.TelescopeDAO;
 import fr.epita.astronomy.datamodel.OpticalTelescope;
 import fr.epita.astronomy.datamodel.RadioTelescope;
 import fr.epita.astronomy.datamodel.SpaceTelescope;

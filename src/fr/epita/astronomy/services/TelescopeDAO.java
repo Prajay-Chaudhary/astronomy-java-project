@@ -1,4 +1,4 @@
-package fr.epita.astronomy.dao;
+package fr.epita.astronomy.services;
 
 import fr.epita.astronomy.datamodel.Telescope;
 

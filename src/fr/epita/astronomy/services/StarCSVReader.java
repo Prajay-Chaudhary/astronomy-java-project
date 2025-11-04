@@ -1,4 +1,4 @@
-package fr.epita.astronomy.utils;
+package fr.epita.astronomy.services;
 
 import fr.epita.astronomy.datamodel.Star;
 import java.io.BufferedReader;

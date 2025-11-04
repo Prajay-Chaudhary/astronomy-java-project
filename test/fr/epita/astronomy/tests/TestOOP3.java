@@ -1,6 +1,10 @@
 package fr.epita.astronomy.tests;
 
-import fr.epita.astronomy.datamodel.*;
+import fr.epita.astronomy.datamodel.OpticalTelescope;
+import fr.epita.astronomy.datamodel.RadioTelescope;
+import fr.epita.astronomy.datamodel.SpaceTelescope;
+import fr.epita.astronomy.datamodel.Telescope;
+
 import java.util.ArrayList;
 import java.util.List;
 

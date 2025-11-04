@@ -1,8 +1,8 @@
 package fr.epita.astronomy.tests;
 
-import fr.epita.astronomy.dao.StarDAO;
+import fr.epita.astronomy.services.StarDAO;
 import fr.epita.astronomy.datamodel.Star;
-import fr.epita.astronomy.utils.StarCSVReader;
+import fr.epita.astronomy.services.StarCSVReader;
 
 import java.util.List;
 
